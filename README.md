@@ -6,7 +6,7 @@ TruthGuard leverages advanced AI to detect fake news and moderate content, ensur
 
 Fake news is a growing problem that can have serious consequences on society. TruthGuard aims to address this issue by leveraging AI technologies to detect and moderate fake news, ensuring that the information people consume is accurate and reliable.
 
-##Features
+## Features
 
 - **Fake News Detection:** Uses AI models to identify and flag fake news articles.
 - **Content Moderation:** Provides tools to moderate content effectively.
